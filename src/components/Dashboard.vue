@@ -26,7 +26,7 @@
           labels: [],
           datasets: []
         },
-        currenciesToCompare: ['EUR', 'GBP', 'ZAR', ], // Define currencies to compare
+        currenciesToCompare: ['EUR', 'GBP', 'ZAR',], // Define currencies to compare
         baseCurrency: 'USD' // Define base currency
       };
     },
